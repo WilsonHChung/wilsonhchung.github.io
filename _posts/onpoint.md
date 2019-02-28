@@ -1,0 +1,13 @@
+---
+layout: inner
+position: right
+title: 'OnPoint'
+date: 2018-02-19 15:56:00
+categories: development design
+tags: Swift Xcode
+featured_image: '/img/posts/onpoint.jpg'
+project_link: 'https://github.com/WilsonHChung/OnPoint'
+button_text: 'Visit Project'
+button_icon: 'github'
+lead_text: 'An iOS app where the player has to align the three sliders close to different values every round'
+---

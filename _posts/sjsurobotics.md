@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'SJSU Robotics Mast/Camera'
-date: 2016-02-20 21:15:00
+date: 2018-02-20 21:15:00
 categories: development design
 tags: C ESP32 FreeRTOS Linux
 featured_image: '/img/posts/gimbal.jpg'
