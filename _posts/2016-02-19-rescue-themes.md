@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Rescue Themes'
+title: 'Dragon Boat'
 date: 2016-02-20 15:56:00
 categories: development design
 tags: WordPress PHP Sass
 featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
 project_link: ''
-button_text: 'Visit Rescue Themes'
+button_text: ''
 button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+lead_text: 'A dragon that's a boat powered by humans like me'
 ---
