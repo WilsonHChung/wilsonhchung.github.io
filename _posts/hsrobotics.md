@@ -4,7 +4,7 @@ position: right
 title: 'FIRST Robotics'
 date: 2016-02-20 15:56:00
 categories: development
-tags: Project-Management Leadership Wiring Soldering System-Integration QA
+tags: ProjectManagement Leadership Wiring Soldering SystemIntegration QA
 featured_image: '/img/posts/robotics.jpg'
 project_link: 'https://www.youtube.com/watch?time_continue=70&v=6EbYxX7tRrg'
 button_icon: 'flask'
