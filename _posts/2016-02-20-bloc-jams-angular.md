@@ -9,5 +9,5 @@ featured_image: '/img/posts/ronald.jpg'
 project_link: ''
 button_icon: 'github'
 button_text: ''
-lead_text: 'A dragon that's a boat powered by humans like me'
+lead_text: 'A dragon powered by humans like me'
 ---
