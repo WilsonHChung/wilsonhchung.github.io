@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Bloc Jams Angular'
+title: 'Dragon Boat'
 date: 2016-02-20 14:15:00
-categories: development
-tags: JavaScript AngularJS Sass Grunt
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
+categories: sports
+tags: It's Pretty Fun
+featured_image: '/img/posts/2018RegionalRegatta.jpg'
 project_link: ''
-button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+button_icon: ''
+button_text: ''
+lead_text: 'A boat that's a dragon powered by humans like me'
 ---
