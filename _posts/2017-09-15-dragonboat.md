@@ -1,8 +1,8 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Dragon Boat'
-date: 2016-02-20 15:56:00
+date: 2017-09-15 15:56:00
 categories: development
 tags: DB is pretty fun
 featured_image: '/img/posts/2018RegionalRegatta.jpg'
