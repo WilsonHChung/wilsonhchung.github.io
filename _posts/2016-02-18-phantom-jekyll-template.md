@@ -4,10 +4,10 @@ position: left
 title: 'SJSU Robotics Mast/Camera Firmware'
 date: 2016-02-20 21:15:00
 categories: development design
-tags: Jekyll Sass Bootstrap
-featured_image: '/img/Projects.jpg'
+tags: C ESP32 FreeRTOS
+featured_image: '/img/posts/gimbal.jpg'
 project_link: ''
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: "Working on controlling a camera gimbal to allow vision tracking for a mars rover robot"
+lead_text: "Working on camera gimbal firmware for a mars rover robot to easily scout objectives and movement paths"
 ---
