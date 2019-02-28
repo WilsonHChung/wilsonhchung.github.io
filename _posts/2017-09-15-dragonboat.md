@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Dragon Boat'
 date: 2017-09-15 15:56:00
 categories: development
