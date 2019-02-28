@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Dragon Boat'
 date: 2016-02-20 15:56:00
 categories: development
-tags: Community
-featured_image: '/img/posts/ronald.jpg'
+tags: DB is pretty fun
+featured_image: '/img/posts/2018RegionalRegatta.jpg'
 project_link: ''
 button_icon: 'github'
 button_text: ''
-lead_text: 'A dragon powered by humans like me'
+lead_text: 'A dragon boat powered by humans like me'
 ---
