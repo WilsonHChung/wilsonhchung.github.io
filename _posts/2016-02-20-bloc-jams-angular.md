@@ -3,8 +3,8 @@ layout: inner
 position: right
 title: 'Dragon Boat'
 date: 2016-02-20 14:15:00
-categories: sports
-tags: It's Pretty Fun
+categories: development
+tags: DB Is Pretty Fun
 featured_image: '/img/posts/2018RegionalRegatta.jpg'
 project_link: ''
 button_icon: 'github'
