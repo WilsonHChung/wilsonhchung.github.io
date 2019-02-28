@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: right
-title: 'Dragon Boat'
-date: 2016-02-21 15:56:00
+position: left
+title: 'STEM Volunteering'
+date: 2016-02-20 15:56:00
 categories: development
-tags: DB
-featured_image: '/img/posts/2018RegionalRegatta.jpg'
+tags: Community
+featured_image: '/img/posts/ronald.jpg'
 project_link: ''
 button_icon: 'github'
 button_text: ''
-lead_text: 'A dragon that's a boat powered by humans like me'
+lead_text: 'I love giving back to the community that helped me become passionate about engineering'
 ---
