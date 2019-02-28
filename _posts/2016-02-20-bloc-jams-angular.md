@@ -7,7 +7,7 @@ categories: sports
 tags: It's Pretty Fun
 featured_image: '/img/posts/2018RegionalRegatta.jpg'
 project_link: ''
-button_icon: ''
+button_icon: 'github'
 button_text: ''
-lead_text: 'A boat that's a dragon powered by humans like me'
+lead_text: 'A dragon that's a boat powered by humans like me'
 ---
