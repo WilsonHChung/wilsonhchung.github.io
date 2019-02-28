@@ -9,5 +9,5 @@ featured_image: '/img/posts/ronald.jpg'
 project_link: ''
 button_icon: 'github'
 button_text: ''
-lead_text: 'Volunteering'
+lead_text: 'I love giving back to the community that helped me become passionate about engineering'
 ---
